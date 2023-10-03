@@ -76,7 +76,6 @@ cmake --build .
 Now `onnx2daq` is in `tools/onnx2daq` directory. 
 
 ### Usage of onnx2daq
-### Usage of onnx2daq
 ```bash
 path_of_onnx2daq onnx_model output_filename
 ```
